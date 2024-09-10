@@ -1,9 +1,9 @@
 package handler
  
 import (
-  "../liveurls"
-  "../list"
-  "../utils"
+  "liveurls"
+  "list"
+  "utils"
   "fmt"
   "net/http"
   "strings"
