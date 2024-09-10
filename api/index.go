@@ -1,9 +1,9 @@
 package handler
  
 import (
-  "Golang/liveurls"
-  "Golang/list"
-  "Golang/utils"
+  "../liveurls"
+  "../list"
+  "../utils"
   "fmt"
   "net/http"
   "strings"
